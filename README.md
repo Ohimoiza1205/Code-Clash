@@ -13,10 +13,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/your-username/CodeClash/stargazers"><img src="https://img.shields.io/github/stars/your-username/CodeClash?style=flat-square" alt="GitHub stars"></a>
-  <a href="https://github.com/your-username/CodeClash/network/members"><img src="https://img.shields.io/github/forks/your-username/CodeClash?style=flat-square" alt="GitHub forks"></a>
-  <a href="https://github.com/your-username/CodeClash/issues"><img src="https://img.shields.io/github/issues/your-username/CodeClash?style=flat-square" alt="GitHub issues"></a>
-  <a href="https://github.com/your-username/CodeClash/blob/main/LICENSE"><img src="https://img.shields.io/github/license/your-username/CodeClash?style=flat-square" alt="License"></a>
+  <a href="https://github.com/Ohimoiza1205/Code-Clash/stargazers"><img src="https://img.shields.io/github/stars/Ohimoiza1205/Code-Clash?style=flat-square" alt="GitHub stars"></a>
+  <a href="https://github.com/Ohimoiza1205/Code-Clash/network/members"><img src="https://img.shields.io/github/forks/Ohimoiza1205/Code-Clash?style=flat-square" alt="GitHub forks"></a>
+  <a href="https://github.com/Ohimoiza1205/Code-Clash/issues"><img src="https://img.shields.io/github/issues/Ohimoiza1205/Code-Clash?style=flat-square" alt="GitHub issues"></a>
+  <a href="https://github.com/Ohimoiza1205/Code-Clash/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Ohimoiza1205/Code-Clash?style=flat-square" alt="License"></a>
 </p>
 
 ---
@@ -191,7 +191,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Project Link: [https://github.com/your-username/CodeClash](https://github.com/your-username/CodeClash)
+Project Link: [https://github.com/Ohimoiza1205/Code-Clash](https://github.com/Ohimoiza1205/Code-Clash)
 
 ---
 
