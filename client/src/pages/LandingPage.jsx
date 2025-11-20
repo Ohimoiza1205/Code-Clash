@@ -737,6 +737,7 @@ const CodeClashLanding = ({ navigate, user }) => {
               linkedin="https://www.linkedin.com/in/peace-enesi/"
               gradient="from-yellow-900/40 to-orange-800/40"
               avatar="PE"
+            />
           </div>
 
           {/* Team Mission Statement */}
