@@ -730,6 +730,13 @@ const CodeClashLanding = ({ navigate, user }) => {
               gradient="from-yellow-900/40 to-orange-800/40"
               avatar="OM"
             />
+            <TeamMemberCard
+              name="Peace Enesi"
+              role="Frontend Developer"
+              github="https://github.com/AhuoyizaEnesi"
+              linkedin="https://www.linkedin.com/in/peace-enesi/"
+              gradient="from-yellow-900/40 to-orange-800/40"
+              avatar="PE"
           </div>
 
           {/* Team Mission Statement */}
