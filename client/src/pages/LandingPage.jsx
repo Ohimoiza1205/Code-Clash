@@ -694,7 +694,7 @@ const CodeClashLanding = ({ navigate, user }) => {
             </p>
           </div>
 
-          <div className="flex flex-row flex-nowrap justify-center gap-10 mt-16">
+          <div className="w-[300px] h-[380px] rounded-2xl p-6 bg-gradient-to-br ...">
             <TeamMemberCard
               name="Darlene Santes"
               role="Database Architect"
